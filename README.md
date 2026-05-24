@@ -36,7 +36,3 @@ Aerospace engineer in Toronto building rocket hardware, robotics systems, avioni
 - [unitree_rl_lab](https://github.com/zeulewan/unitree_rl_lab) - Unitree reinforcement learning experiments
 - [geodude-control](https://github.com/zeulewan/geodude-control) - capstone control system and ground station
 - [glueclaw](https://github.com/zeulewan/glueclaw) - OpenClaw / Claude Max bridge tooling
-
-## Stack
-
-Python, TypeScript, Swift, C/C++, MATLAB, KiCad, Altium, RP2040, ESP32, Raspberry Pi, CAN, LabVIEW, PLCs, SOLIDWORKS, Onshape, Isaac Sim, ROS 2, Docker, Linux, Tailscale.
