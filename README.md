@@ -2,8 +2,6 @@
 
 Aerospace engineer in Toronto building rocket hardware, robotics systems, avionics, and local AI agent tools.
 
-I like making physical systems easier to understand and operate: test stands with clean data, avionics that can be debugged, robots with reproducible sim setups, and agent tools that run on my own machines.
-
 <p>
   <a href="https://zeuldocs.com">zeuldocs.com</a> ·
   <a href="https://linkedin.com/in/zeulewan">LinkedIn</a> ·
