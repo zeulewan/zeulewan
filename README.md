@@ -1,6 +1,4 @@
-# Zeul Mordasiewicz
-
-Aerospace engineer in Toronto building rocket hardware, robotics systems, avionics, and local AI agent tools.
+# Zeul 
 
 <p>
   <a href="https://zeuldocs.com">zeuldocs.com</a> ·
